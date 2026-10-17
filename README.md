@@ -20,7 +20,7 @@
 Расчёт скидки для клиента (указывается через ID).
 <img width="1206" height="559" alt="image" src="https://github.com/user-attachments/assets/92a8fcaf-a50f-4c76-a3bd-4706e1435639" />
 
-## 💡 Часто задаваемые вопросы (FAQ)
+## Ответы на контрольные вопросы
 
 <details>
 <summary><b>1. Почему бизнес-логику вынесли в MySQL, а не оставили в Django?</b></summary>
